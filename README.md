@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Adarsh Dubey
 
-<!--
-**adarsh3813/adarsh3813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 Working on exciting Java and React projects
+- 🌱 Learning Docker, Kubernetes, and AI integrations
+- 💬 Ask me about Java, Spring Boot, React, or Node.js
+- 📫 How to reach me: [LinkedIn](#) | [Email](#)
+- ⚡ Fun fact: I love solving puzzles and exploring tech trends!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 📊 GitHub Stats
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshdubey&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshdubey&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 Achievements
+- ⭐ Contributed to open source
+- 💬 Helped answer questions in communities
+
+Thanks for visiting my profile! 😊
