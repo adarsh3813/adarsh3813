@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Adarsh Dubey
 
-🚀 Full Stack Developer | Open Source Enthusiast
+🚀 Full Stack Developer
 
 - 🔭 Working on exciting Java and React projects
-- 🌱 Learning Docker, Kubernetes, and AI integrations
+- 🌱 Learning Docker, Cloud, and Microservices
 - 💬 Ask me about Java, Spring Boot, React, or Node.js
 - 📫 How to reach me: [LinkedIn](#) | [Email](#)
 - ⚡ Fun fact: I love solving puzzles and exploring tech trends!
@@ -19,7 +19,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshdubey&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
-- ⭐ Contributed to open source
+- ⭐ Great problem solver with more than 600 problems solved on various platforms
 - 💬 Helped answer questions in communities
 
 Thanks for visiting my profile! 😊
